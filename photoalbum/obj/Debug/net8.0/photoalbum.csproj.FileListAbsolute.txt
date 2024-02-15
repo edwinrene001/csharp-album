@@ -1,0 +1,14 @@
+F:\Task\Test\csharp-test\photoalbum\photoalbum\bin\Debug\net8.0\photoalbum.exe
+F:\Task\Test\csharp-test\photoalbum\photoalbum\bin\Debug\net8.0\photoalbum.deps.json
+F:\Task\Test\csharp-test\photoalbum\photoalbum\bin\Debug\net8.0\photoalbum.runtimeconfig.json
+F:\Task\Test\csharp-test\photoalbum\photoalbum\bin\Debug\net8.0\photoalbum.dll
+F:\Task\Test\csharp-test\photoalbum\photoalbum\bin\Debug\net8.0\photoalbum.pdb
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.AssemblyInfoInputs.cache
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.AssemblyInfo.cs
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.csproj.CoreCompileInputs.cache
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.dll
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\refint\photoalbum.dll
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.pdb
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\photoalbum.genruntimeconfig.cache
+F:\Task\Test\csharp-test\photoalbum\photoalbum\obj\Debug\net8.0\ref\photoalbum.dll
